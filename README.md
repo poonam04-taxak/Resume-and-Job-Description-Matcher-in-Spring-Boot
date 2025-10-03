@@ -101,5 +101,3 @@ This project is licensed under the MIT License.
 
 Author
 Poonam Taxak
-Author
-Poonam Taxak
